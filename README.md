@@ -1,9 +1,4 @@
-<img src="client/public/icons/open-book.png" alt="bookstore icon" width="300"> 
-
-[![npm](https://img.shields.io/npm/v/npm)](https://www.npmjs.com/package/npm)  
-[![React](https://img.shields.io/badge/React-v18.0.2-blue)](https://reactjs.org/)  
-[![Node.js](https://img.shields.io/badge/Node.js-v18.12.1-green)](https://nodejs.org/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-v6.0.0-green)](https://www.mongodb.com/)  
+<img src="https://fascinating-squirrel-064eba.netlify.app/Hero.png" alt="bookstore icon" width="300">  
 
 # Online Bookstore
 
