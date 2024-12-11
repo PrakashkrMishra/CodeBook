@@ -15,6 +15,7 @@ Admin Features
 Book Management: Add, update, and delete books in the database.
 View Orders: Manage orders and update their status
 
+# npm install
 
 
 Technologies Used
