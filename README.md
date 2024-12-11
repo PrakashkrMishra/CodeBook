@@ -7,17 +7,14 @@ The **Online Bookstore** is a full-stack web application designed to provide a s
 ## Features
 
 - **User Authentication**: Secure sign-up and log-in using JWT.
-- **Book Management**: Users can browse, search, and filter books by categories or authors.
+- **Browse Books**: View a wide range of books with details such as title, author, price, and language.
 - **Cart Functionality**: Add books to the cart and manage orders efficiently.
 - **Favorites**: Add books to a personal favorites list for quick access.
-- **Role-Based Access**: Admins can manage the inventory by adding, updating, or deleting books.
-- **Categorized Collections**: Extensive library organized into genres:
-  - Fiction
-  - Children
-  - Novels
-  - Educational
-  - Biography
-  - Poetry
+- **Profile Management**: Update address and view user information.
+##Admin Features
+- **Book Management**: Add, update, and delete books in the database.
+- **View Orders**: Manage orders and update their status.
+
 
 *Note: Online reading of books is not supported.*
 
