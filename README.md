@@ -2,7 +2,7 @@
 
 # Online Bookstore
 
-The **Online Bookstore** is a full-stack web application developed using the MERN stack. This platform offers a seamless experience for users to explore, purchase, and manage books while providing robust role-based access for administrators.
+The **Online Bookstore** is a full-stack web application designed to provide a seamless experience for users to browse, purchase, and manage books online. The project includes features for user authentication, book management, shopping carts, and favorites, with role-based access control for admins.
 
 ## Features
 
